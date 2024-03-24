@@ -1,0 +1,44 @@
+{"image":"train\/fake\/image (1).png","label":1}
+{"image":"train\/fake\/image (10).png","label":1}
+{"image":"train\/fake\/image (11).png","label":1}
+{"image":"train\/fake\/image (12).png","label":1}
+{"image":"train\/fake\/image (13).png","label":1}
+{"image":"train\/fake\/image (14).png","label":1}
+{"image":"train\/fake\/image (15).png","label":1}
+{"image":"train\/fake\/image (16).png","label":1}
+{"image":"train\/fake\/image (17).png","label":1}
+{"image":"train\/fake\/image (18).png","label":1}
+{"image":"train\/fake\/image (19).png","label":1}
+{"image":"train\/fake\/image (2).png","label":1}
+{"image":"train\/fake\/image (20).png","label":1}
+{"image":"train\/fake\/image (21).png","label":1}
+{"image":"train\/fake\/image (22).png","label":1}
+{"image":"train\/fake\/image (3).png","label":1}
+{"image":"train\/fake\/image (4).png","label":1}
+{"image":"train\/fake\/image (5).png","label":1}
+{"image":"train\/fake\/image (6).png","label":1}
+{"image":"train\/fake\/image (7).png","label":1}
+{"image":"train\/fake\/image (8).png","label":1}
+{"image":"train\/fake\/image (9).png","label":1}
+{"image":"train\/fake\/image.png","label":1}
+{"image":"train\/real\/05-12-21-happy-people.jpeg","label":0}
+{"image":"train\/real\/85120553.webp","label":0}
+{"image":"train\/real\/actor-will-smith-arrives-at-the-los-angeles-world-premiere-news-photo-465783654-1565089503.jpeg","label":0}
+{"image":"train\/real\/image (1).png","label":0}
+{"image":"train\/real\/image (10).png","label":0}
+{"image":"train\/real\/image (11).png","label":0}
+{"image":"train\/real\/image (12).png","label":0}
+{"image":"train\/real\/image (13).png","label":0}
+{"image":"train\/real\/image (14).png","label":0}
+{"image":"train\/real\/image (15).png","label":0}
+{"image":"train\/real\/image (16).png","label":0}
+{"image":"train\/real\/image (2).png","label":0}
+{"image":"train\/real\/image (3).png","label":0}
+{"image":"train\/real\/image (4).png","label":0}
+{"image":"train\/real\/image (5).png","label":0}
+{"image":"train\/real\/image (6).png","label":0}
+{"image":"train\/real\/image (7).png","label":0}
+{"image":"train\/real\/image (8).png","label":0}
+{"image":"train\/real\/image (9).png","label":0}
+{"image":"train\/real\/image.png","label":0}
+{"image":"train\/real\/shouts-animals-watch-baby-hemingway.webp","label":0}
